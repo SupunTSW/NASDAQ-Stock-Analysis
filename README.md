@@ -45,7 +45,7 @@ How to Run the Project:
       - nasdaq_selected_features_unscaled.csv
       - nasdaq_selected_features_scaled.csv
    - Among the four files generated, use the "nasdaq_selected_features_scaled.csv" file for model training and evaluation.
-
+     (Note: The feature selection process takes approximately 3 to 4 minutes to complete.) 🧰
   
 7. 🧠 Train the Models (train.py)
    - Specify the file path for the "nasdaq_selected_features_scaled.csv" dataset in the "main()" function within the "train.py" script.
